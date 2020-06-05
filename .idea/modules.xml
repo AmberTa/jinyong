@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jinyong.iml" filepath="$PROJECT_DIR$/jinyong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharacterRelationship.iml" filepath="$PROJECT_DIR$/CharacterRelationship.iml" />
     </modules>
   </component>
 </project>
